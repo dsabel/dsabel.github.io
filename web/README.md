@@ -1,1 +1,3 @@
-Code released under the [MIT](https://github.com/dsabel/dsabel.github.io/LICENSE) license.
+We include the following copyright notice and the MIT-license since we use a template from https://startbootstrap.com/ and thus have to fulfill the MIT-license:
+
+
